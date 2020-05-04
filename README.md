@@ -1,5 +1,5 @@
 # Constructores2-ProgAPP
-Constructores2-ProgAPP
+Constructores #2  Programa durante las Clases en Linea via Clasroom CoVID-19. del jueves, 23 de abril de 2020 15:44:38 CDT
 
 
 								Licencia MIT, 
